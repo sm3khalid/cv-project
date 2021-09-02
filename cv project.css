@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#EEE;
+    font-family: 'STIX Two Math', serif;
+    
+}
+.abc1{
+    max-width:1000px;
+    background-color:#E4F9F5;
+    margin:0 auto;
+    padding:20px;
+    
+
+}
+.profile-image{
+ max-width:1000px;
+ height:120px;
+ border:3px solid white;
+ border-radius:50%;
+ float:left;
+ 
+}
+.header-bio{
+    float:left;
+    padding:30px;
+    color:rgb(74, 32, 223);
+}
+.header-contact{
+    float:right;
+    padding:30px;
+}
+.header-contact a{
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(74, 32, 223);
+
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color:darkblue;
+}
+.clear-div{
+    clear:both;
+}
+hr{
+    border:3px solid black;
+    width:100%;
+    margin:20px auto;
+    border-bottom:none;
+}
+.left-div{
+    color:rgb(74, 32, 223);
+    float:left;
+    width:30%;
+}
+.right-div{
+    color:rgb(74,32,223);
+    float:right;
+    width:70%;
+}
+.content{
+    margin-bottom: 30px;
+}
+.common-hr{
+    width:100%;
+    border:1px solid black;
+    border-bottom:none;
+    margin:20px auto;
+    
+}
+.edu-temp-left{
+    float:left;
+    width:45%;
+}
+.edu-temp-right{
+    float:right;
+    width:45%;
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding:10px;
+}
+.bottom-container a{
+    color:white;
+    text-decoration: none;
+    margin:20px;
+}
+.bottom-container p{
+    color:white;
+    margin-top:20px;
+}
